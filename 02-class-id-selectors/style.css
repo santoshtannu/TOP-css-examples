@@ -1,0 +1,21 @@
+/* style.css */
+
+.odd-div {
+    background-color: #ee99e0;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+.odd-div-2 {
+    font-size: 24px;
+}
+
+#para {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#para-2 {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #20b23b;
+}
