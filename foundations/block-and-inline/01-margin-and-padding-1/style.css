@@ -26,5 +26,6 @@ body {
   width: 200px;
   /* CHANGE ME */
   padding: 32px;
-  margin-left: 232px;
+  /*margin-left: 232px;   // mistake*/
+  margin-left: auto 
 }
